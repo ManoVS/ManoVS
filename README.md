@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManoVS
 - 👀 I’m interested in Coding and AI
-- 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m currently learning Coding and robotics
+- 💞️ I’m looking to collaborate on robotics
 - 📫 How to reach me [Gmail: Manoranjanseker@gmail.com]
 
 <!---
